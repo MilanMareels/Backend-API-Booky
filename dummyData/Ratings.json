@@ -1,0 +1,14 @@
+[
+	{
+		"ratingId": "9a9b8f94-6352-4679-a13c-33111c86d0c2",
+		"ratingValue": 5,
+		"reviewText": "Excellent service!",
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"ratingId": "4243d221-a15f-41c3-abd1-f4da570b1f59",
+		"ratingValue": 4,
+		"reviewText": "Very good, but room for improvement.",
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	}
+]

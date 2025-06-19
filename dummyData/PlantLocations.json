@@ -1,0 +1,14 @@
+[
+	{
+		"locationId": "b84b7d26-dd4e-4c65-8231-1182c63a84f2",
+		"locationName": "Living Room"
+	},
+	{
+		"locationId": "d56328aa-a188-459e-9283-2b1a7adcfb86",
+		"locationName": "Bedroom"
+	},
+	{
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"locationName": "Office"
+	}
+]

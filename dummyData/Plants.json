@@ -1,0 +1,162 @@
+[
+	{
+		"plantId": "cb95e433-1e33-4641-a7fb-14efcae7cac2",
+		"plantName": "Monstera Deliciosa",
+		"locationId": "b84b7d26-dd4e-4c65-8231-1182c63a84f2",
+		"plantImage": "https://growurban.uk/cdn/shop/articles/care-guide-monstera-deliciosa-668092.jpg?v=1699501034&width=2048",
+		"plantedDate": 1602960000,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "97457869-a0d1-4a63-bed2-e65a121832f9",
+		"plantName": "Ficus Lyrata",
+		"locationId": "b84b7d26-dd4e-4c65-8231-1182c63a84f2",
+		"plantImage": "https://www.tropicalplantsuk.com/wp-content/uploads/2023/01/Ficus-Lyrata-SINGLE-5L-n.2.jpg",
+		"plantedDate": 1603046400,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "c46b6dc3-c6fe-44e3-840f-8b21cc13b18e",
+		"plantName": "Sansevieria Trifasciata",
+		"locationId": "b84b7d26-dd4e-4c65-8231-1182c63a84f2",
+		"plantImage": "https://www.tuinflora.be/media/catalog/product/cache/3a7af0a8e0e317723249dc9098669163/f/d/fd13236wh.jpg",
+		"plantedDate": 1603132800,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "64b32c2a-5727-4832-b431-d2f1eaef7c3a",
+		"plantName": "Aloe Vera",
+		"locationId": "b84b7d26-dd4e-4c65-8231-1182c63a84f2",
+		"plantImage": "https://naturalpoland.com/wp-content/uploads/aloe-vera-in-africa.jpg",
+		"plantedDate": 1603219200,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "faa87ddd-c9ea-4bc3-b4a1-d704dc48aa1b",
+		"plantName": "Spider Plant",
+		"locationId": "b84b7d26-dd4e-4c65-8231-1182c63a84f2",
+		"plantImage": "https://www.bhg.com/thmb/oDnjlrHprd67aYvinrMfQgVUPtQ=/5332x0/filters:no_upscale():strip_icc()/BHG-spider-plant-c0e0fdd5ec6e4c1588998ce3167f6579.jpg",
+		"plantedDate": 1603305600,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "b95b756c-1e54-4234-ba21-99270992a375",
+		"plantName": "Peace Lily",
+		"locationId": "d56328aa-a188-459e-9283-2b1a7adcfb86",
+		"plantImage": "https://cdn.mos.cms.futurecdn.net/qYNPupRnspGWPF4886Z7hB-1200-80.jpg",
+		"plantedDate": 1603392000,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "c3cdd3dd-e682-413c-9833-acac1e7cb5dc",
+		"plantName": "Pothos",
+		"locationId": "d56328aa-a188-459e-9283-2b1a7adcfb86",
+		"plantImage": "https://abeautifulmess.com/wp-content/uploads/2023/06/GoldenPothos-1.jpg",
+		"plantedDate": 1603478400,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "3c6acdab-8d0f-4927-b473-53a0e72fa056",
+		"plantName": "ZZ Plant",
+		"locationId": "d56328aa-a188-459e-9283-2b1a7adcfb86",
+		"plantImage": "https://www.realsimple.com/thmb/9yMs2mrJjeQ_UsNZajI85Z5VI9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/zz-plant-GettyImages-1387302222-e9e228907c3e4e4ea3481898c90d1a53.jpg",
+		"plantedDate": 1603564800,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "520c8b4e-c242-4fdb-88cd-1a5e4387aabd",
+		"plantName": "Jade Plant",
+		"locationId": "d56328aa-a188-459e-9283-2b1a7adcfb86",
+		"plantImage": "https://www.marthastewart.com/thmb/wfMSnhZFCSX45OgGrC37o8YWFcI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-care-for-jade-plant-outside-getty-1123-6f0b4051fcd14580886a5431bc05b176.jpg",
+		"plantedDate": 1603651200,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "998375b3-bb15-4678-806f-824b978a9298",
+		"plantName": "Rubber Plant",
+		"locationId": "d56328aa-a188-459e-9283-2b1a7adcfb86",
+		"plantImage": "https://www.epicgardening.com/wp-content/uploads/2023/02/Rubber-plant-in-pot.jpg",
+		"plantedDate": 1603737600,
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45"
+	},
+	{
+		"plantId": "b892ac34-0b18-4f54-a65f-f789d4cef861",
+		"plantName": "Chinese Evergreen",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://cdn.mos.cms.futurecdn.net/opVxtLDKnSymCc3JruP8GK.jpg",
+		"plantedDate": 1603824000,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"plantId": "4a8009eb-ed90-4b11-92c8-90be612f4435",
+		"plantName": "Calathea",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://media.greg.app/cGxhbnQtZGItcGhvdG9zL0NhbGF0aGVhX21lZGFsbGlvbi5qcGc=?format=pjpeg&optimize=high&auto=webp&precrop=1000:1000,smart&fit=crop&width=1000&height=1000",
+		"plantedDate": 1603910400,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"plantId": "0e1c86d0-8c87-438c-9410-682a57493543",
+		"plantName": "Dracaena",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://www.thespruce.com/thmb/C2reCth-GHN2CMo6T9x8QJ_5S24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-dracaena-marginata-indoors-1902749-2-983c52a2805144d899408949969a5728.jpg",
+		"plantedDate": 1603996800,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"plantId": "dddad96e-1060-40e5-b086-28d3f0256514",
+		"plantName": "Philodendron",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://www.thespruce.com/thmb/uKbhHG8NrCJKLzrNZVGsMJSD2S4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-philodendron-houseplants-1902768-04-8bee1496f67e41c392304329eaea505e.jpg",
+		"plantedDate": 1604083200,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"plantId": "dcb90f7c-9803-4ea0-9db0-1d5f036d0043",
+		"plantName": "Cactus",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://d2rxt25e475whq.cloudfront.net/wp-content/uploads/2022/08/25140912/AdobeStock_518822358-scaled.jpeg",
+		"plantedDate": 1604169600,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"plantId": "2fab933a-f4d9-4afa-8acf-b19e4399b3a2",
+		"plantName": "Fern",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://cdn.britannica.com/30/73130-138-917E422E/Ferns-systems-tracheophytes-leaves-water.jpg?w=800&h=450&c=crop",
+		"plantedDate": 1604256000,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"plantId": "42068317-487d-4ac9-be1a-5b9bfd3298b1",
+		"plantName": "Lavender",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://www.gardendesign.com/pictures/images/675x529Max/site_3/english-lavender-lavandula-angustifolia-garden-design_11716.jpg",
+		"plantedDate": 1604342400,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"plantId": "a30fecbb-5219-404d-bbac-eb0f7eecb381",
+		"plantName": "Basil",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2020/02/266425_2200-1200x628.jpg",
+		"plantedDate": 1604428800,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"plantId": "c5d07cf5-c815-4024-82dd-ce690d49a7b7",
+		"plantName": "Rosemary",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/rosemary-plant-rosmarinus-shutterstock-com_17869.jpg",
+		"plantedDate": 1604515200,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	},
+	{
+		"plantId": "a816ff61-cc12-4028-bfb0-f548035f05f4",
+		"plantName": "Thyme",
+		"locationId": "35e11b28-bb30-4ba9-a0c8-2fa56a5f08c2",
+		"plantImage": "https://www.thespruce.com/thmb/NwgWg8-NjddC5oZRgZgxNKbCDfg=/5304x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-thyme-1402630-hero-d44ccea3e3604c1db97d23761b25de52.jpg",
+		"plantedDate": 1604601600,
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f"
+	}
+]

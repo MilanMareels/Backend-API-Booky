@@ -1,0 +1,32 @@
+[
+	{
+		"userId": "8c2b2fd4-9c5a-46ad-b8f8-be36ef9fee3f",
+		"userName": "adminMilan",
+		"password": "$2a$12$N.7.wzAYOuSFIJdTetqNhOFJpRRyfUnCS/qzAUK2nhDjne2uF7YtS",
+		"ratingPlaced": true,
+		"profilePicture": "https://example.com/profile/johndoe.jpg",
+		"email": "adminMilan@example.com",
+		"fullName": "Milan Mareels",
+		"accountCreated": 1602960000
+	},
+	{
+		"userId": "54728fa1-bd55-4d08-a4ad-0e3271dece45",
+		"userName": "adminRenzo",
+		"password": "$2a$12$3S1WgQ0zlPD0zfdSIIy36eJKPiyhbN/n3zQZ57/a5/SlOKCX/mYki",
+		"ratingPlaced": false,
+		"profilePicture": "https://example.com/profile/janedoe.jpg",
+		"email": "adminRenzo@example.com",
+		"fullName": "Renzo Declerck",
+		"accountCreated": 1603046400
+	},
+	{
+		"userId": "a79740aa-3382-41c2-8baa-e999f56f0dde",
+		"userName": "admin",
+		"password": "$2a$12$N.7.wzAYOuSFIJdTetqNhOFJpRRyfUnCS/qzAUK2nhDjne2uF7YtS",
+		"ratingPlaced": true,
+		"profilePicture": "https://example.com/profile/johndoe.jpg",
+		"email": "admin@example.com",
+		"fullName": "Admin",
+		"accountCreated": 1603046400
+	}
+]

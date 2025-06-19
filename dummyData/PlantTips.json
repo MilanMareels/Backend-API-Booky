@@ -1,0 +1,17 @@
+[
+	{
+		"tipId": "1fe78ac8-b49a-4fd0-b246-f0ca76b5ce87",
+		"tipTitle": "Watering Tips",
+		"tipDescription": "Water your plants early in the morning or late in the evening to reduce water evaporation."
+	},
+	{
+		"tipId": "67c347b8-ef47-499d-8ef8-9c3a3add45e2",
+		"tipTitle": "Sunlight Needs",
+		"tipDescription": "Place your plants where they can get at least 6 hours of sunlight each day."
+	},
+	{
+		"tipId": "f844f552-c0a3-44e0-8090-fe2b9c9607fb",
+		"tipTitle": "Fertilizing",
+		"tipDescription": "Use a balanced fertilizer once a month during the growing season."
+	}
+]
