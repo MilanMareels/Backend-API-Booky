@@ -4,24 +4,36 @@ import bcrypt from 'bcrypt';
 
 import { createResponseObject, handleErrors } from '../../common/common';
 import { queryUser } from '../../database/auth/queryUser';
-import { UnauthorizedError } from '../../errors/error';
+import { NotFoundError, UnauthorizedError } from '../../errors/error';
 import { User } from '../../types/User';
 
 const router = express.Router();
 
-const JWT_SECRET = 'je_veilige_secret_sleutel_hier';
+const JWT_SECRET = process.env.JWT_SECRET || 'secret';
 
 router.post('/login', async (req, res) => {
 	try {
-		const { username, password } = req.body;
+		const { email, password } = req.body;
 
-		const user: User = (await queryUser(username)) as User;
+		const user: User = (await queryUser(email)) as User;
+
+		if (user == null) {
+			throw new NotFoundError();
+		}
 
 		await checkPassword(password, user.password);
 
 		// Dit geberut pas als ww correct is anders error
 		const token = jwt.sign(
-			{ username: username },
+			{
+				username: user.username,
+				email: user.email,
+				userId: user.userId,
+				profilePicture: user.profilePicture,
+				signUpDate: user.signUpDate,
+				firstname: user.firstname,
+				lastname: user.lastname,
+			},
 			JWT_SECRET,
 			{ expiresIn: '24h' }, // Token verloopt na 24 uur
 		);
