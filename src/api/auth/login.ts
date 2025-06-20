@@ -4,7 +4,7 @@ import bcrypt from 'bcrypt';
 
 import { createResponseObject, handleErrors } from '../../common/common';
 import { queryUser } from '../../database/auth/queryUser';
-import { UnauthorizedError } from '../../errors/error';
+import { NotFoundError, UnauthorizedError } from '../../errors/error';
 import { User } from '../../types/User';
 
 const router = express.Router();
@@ -16,6 +16,10 @@ router.post('/login', async (req, res) => {
 		const { email, password } = req.body;
 
 		const user: User = (await queryUser(email)) as User;
+
+		if (user == null) {
+			throw new NotFoundError();
+		}
 
 		await checkPassword(password, user.password);
 
