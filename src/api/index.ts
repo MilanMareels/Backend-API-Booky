@@ -1,8 +1,8 @@
 import express from 'express';
 
 import getAllBooksOfUser from './books/getAllBookOfUser';
-
 import login from './auth/login';
+import register from './auth/register';
 
 import { closeDatabase, connectDatabase } from '../database/db';
 
@@ -29,5 +29,8 @@ router.use(getAllBooksOfUser);
 
 // Login
 router.use(login);
+
+// Register
+router.use(register);
 
 export default router;

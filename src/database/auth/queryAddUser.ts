@@ -7,14 +7,9 @@ const uri: string = process.env.MONGO_CONNECT_URL!;
 const database: string = process.env.DATABASE!;
 const client = new MongoClient(uri);
 
-export const queryUser = async (email: string): Promise<User | unknown> => {
+export const queryAddUser = async (user: User) => {
 	try {
-		const user = await client
-			.db(database)
-			.collection('Users')
-			.findOne({ email: email });
-
-		return user;
+		await client.db(database).collection('Users').insertOne(user);
 	} catch (error) {
 		return error;
 	}

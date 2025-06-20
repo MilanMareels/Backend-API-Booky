@@ -1,7 +1,7 @@
 import jwt from 'jsonwebtoken';
 
 // JWT Secret - in productie in een environment variable zetten!
-const JWT_SECRET = 'je_veilige_secret_sleutel_hier';
+const JWT_SECRET = process.env.JWT_SECRET || 'secret';
 
 // Middleware om token te verifiëren
 export const verifyToken = (req: any, res: any, next: any) => {
